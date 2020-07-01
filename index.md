@@ -1,5 +1,7 @@
 ## About me
 
+![](chitra-linkedin.png)
+
 Hello! Welcome to my website. I am currently serving as Dean of Science, Technology, Engineering and Math at MassBay Community College. I earned my PhD in Civil Engineering from Tufts University in 2004.
 
 I am passionate about teaching, mentoring and writing about poignant issues in my professional field.
