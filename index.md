@@ -6,5 +6,3 @@ I am passionate about teaching, mentoring and writing about poignant issues in m
 In my free time, I enjoy gardening.
 
 For more information, [my LinkedIn page](https://www.linkedin.com/in/chitra-javdekar-deshpande-097781b/) is here.
-
-
