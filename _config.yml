@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: Chitra Javdekar, PhD
+
+#Enter the following platform usernames if you would like them to appear on your website
+owner:
+  name: Chitra Javdekar
+  avatar: chitra-linkedin.png
+  email: chitra.javdekar@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: cdeshpan
+  #linkedin: #username
