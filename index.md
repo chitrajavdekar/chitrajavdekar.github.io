@@ -1,5 +1,5 @@
 ## Chitra Javdekar
-
+![Chitra Javdekar](/chitra-linkedin.png)
 Chitra Javdekar has over 20 years of experience in public and private higher education in the United States, as a tenured professor, academic dean, and chief academic officer.   
 
 As an academic, she has worked with adult and other nontraditional learners from diverse educational and socio-economic backgrounds, contributing to areas of engineering education and more broadly, STEM education, faculty development, and student success. She brings nearly a decade of practical experience in curriculum design, technology-enabled learning, e-learning, program development, management, administration, assessment, and improvement. Her vision has led to the development of new student supports, including a professionally managed, distinguished STEM mentoring program designed to develop students’ understanding of their academic and career interests, strengths, and a supportive professional network. This program has created year-long 1:1 mentoring relationships between community college students and professionals representing STEM industries, serving over 400 students between 2014 to 2024. 
